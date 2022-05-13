@@ -17,7 +17,7 @@
   
 ## 👩‍💻 About the project
 
-The project is a Widget for the user to give feedback about the current website. Developed using React.js and TailwindCSS.
+The project is a Widget for the user to give feedback about the current website.
 
 [click here, see closer](https://feedget-cs.vercel.app/) 😉
 
