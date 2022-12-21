@@ -21,6 +21,9 @@ The project is a Widget for the user to give feedback about the current website.
 
 [click here, see closer](https://feedget-cs.vercel.app/) 😉
 
+
+<b>Note</b>: The online site with the application is running on [Railway](https://railway.app/), where your free plan has a monthly usage limit !
+
 ## 🚀 Technologies
 
 - [ReactJS](https://reactjs.org/)
