@@ -17,7 +17,9 @@
   
 ## 👩‍💻 About the project
 
-The project is a Widget for the user to give feedback about the current website.
+A widget that can be used on any website. It allows users to give feedback about the page!
+
+Also available in a mobile version
 
 [click here, see closer](https://feedget-cs.vercel.app/) 😉
 
